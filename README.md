@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Scientist and Data analyze
 - 🌱 I’m currently learning Power Bi 
 - 💞️ I’m looking to collaborate on some projects in Machine Learning.
-- 📫 You can reach me at kangmasrip@gmail.com or on my LinkedIn
+- 📫 You can reach me at kangmasrip@gmail.com or on my [LinkedIn](https://www.linkedin.com/in/reza-kalmas-21728a188/)
 
 <!---
 rezakalmas/rezakalmas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
