@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rezakalmas
+- 👋 Hi, I’m reza kalmas
 - 👀 I’m interested in Data Scientist and Data analyze
 - 🌱 I’m currently learning Power Bi 
 - 💞️ I’m looking to collaborate on some projects in Machine Learning.
